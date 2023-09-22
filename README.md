@@ -37,8 +37,7 @@ cd Talk-to-ChatGPT
 pip install SpeechRecognition pyautogui keyboard clipboard pyttsx3 pyaudio
 
 ```
-### Step 5: run main.py with vscode
+### Step 5: run main.py or tab f5 to run then go to chatgpt website and start talking **Ctrl+Space to start** and **Shit to repeat previous question**
 ```bash
 python main.py
 ```
-**Ctrl+Space to start** and **Shit to repeat previous question**
