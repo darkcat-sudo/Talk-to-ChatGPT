@@ -1,10 +1,10 @@
 # Talk to ChatGPT can be use to talk to chatgpt in their website
 
-1. Uses **windows speech recognition** to recognise text and write and send it in ChatGPT website input field.
+1. Uses **windows speech recognition** to recognise text then write and send it in ChatGPT website input field.
 2. **Copys the reponse from chatgpt** send it to tempo.txt file 
-3. Windows text to speech says the **last paragraph of chatgpt response**
+3. Windows text to speech says the **last paragraph of ChatGPT response**
 ### Note: I filtered the text to say last paragraph only. Change it to your needs or put promts that chat gpt says the thing in one paragraph or doesnt add unnessecery footer texts
-4. It also takes **record you and gpt response** in **report.txt** every conversation you have and analasy it later
+4. It also takes **record of you and gpt response** in **report.txt** every conversation you had analasy it later
 
 
 ## How to get benefit of Talk to ChatGPT engine ? 
@@ -37,11 +37,11 @@ cd Talk-to-ChatGPT
 pip install SpeechRecognition pyautogui keyboard clipboard pyttsx3 pyaudio
 
 ```
-### Step 5: run main.py or tab f5 to run then go to chatgpt website and start talking **Ctrl+Space to start** and **Tab Shit to repeat previous question**
+### Step 5: Run main.py 
 ```bash
 python main.py
 ```
-### Keyboard ShortCuts to use it
+### Keyboard Shortcuts to use it
 1. **F5** to run main.py
 2. **Ctrl+Space** to start
 2. **Shit** to repeat previous question

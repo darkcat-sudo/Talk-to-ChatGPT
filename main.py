@@ -8,7 +8,7 @@ import clipboard
 import pyttsx3
 import wave
 import pyaudio
-
+#two voice is available in windows 10 David and Zira you can use one of that
 voicee= "David"
 defaulttext ="Tab Ctrl+Space to listen.. Shift to repeat QN"
 
